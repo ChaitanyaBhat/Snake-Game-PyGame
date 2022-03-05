@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game:
 
 This game is developed using Python PyGame.
 
